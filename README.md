@@ -22,3 +22,10 @@ http://www.linux-sxs.org/programming/bashcheat.html
 ██████░░▄░░░░░░░░░░░░░▄░░░██████████████
 ██████░░░░░░░░░░░░░▄█▀░░▄███████████████
 ███████▄▄░░░░░░░░░▀░░░▄▀▄███████████████
+
+# Using Elm
+
+1. Open the Terminal where your files are. Better to copy your files to the Desktop then type `cd Desktop`
+2. Type in `elm reactor` into terminal.
+3. Open the URL "localhost:8000" on your browser.
+4. Click on Guess.elm.
